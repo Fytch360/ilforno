@@ -161,7 +161,6 @@ h5 {
 }
 
 .about_item1-img img {
-  margin: 5px 0;
   width: 500px;
   height: 500px;
   border-radius: 5px;
@@ -1227,11 +1226,11 @@ a:hover {
   }
 
   .header_content {
-    font-size: 12px;
+    font-size: 1rem;
   }
 
   .navbar {
-    padding: 10px 10px 5px 10px;
+    padding: 15px 10px 10px 10px;
   }
 
   .header2 {
@@ -1412,6 +1411,9 @@ a:hover {
   .slider-item-content,
   .event-item-content {
     padding: 5px 0px 5px 0px;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
   }
 
   .slider-item-title,
@@ -1423,6 +1425,7 @@ a:hover {
   .event-item-txt {
     font-size: 0.5rem;
     line-height: 10px;
+    letter-spacing: -0.6px;
   }
 }
 
