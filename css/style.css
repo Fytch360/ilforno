@@ -58,8 +58,8 @@
 
 .slider-item-title,
 .event-item-title {
-  max-width: 80%;
-  margin-left: 10%;
+  max-width: 90%;
+  margin-left: 5%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -74,7 +74,7 @@
 
 .slider-item-txt,
 .event-item-txt {
-  max-width: 80%;
+  max-width: 90%;
   margin: 0 auto;
   font-size: 1rem;
   line-height: 25px;
@@ -1429,7 +1429,7 @@ a:hover {
 @media (max-width: 450px) {
   .slider-item img,
   .event-item img {
-    width: 200px;
+    width: 220px;
     height: 140px;
   }
 
