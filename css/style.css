@@ -74,6 +74,7 @@
 
 .slider-item-txt,
 .event-item-txt {
+  word-spacing: -1px;
   max-width: 90%;
   margin: 0 auto;
   font-size: 1rem;
@@ -161,6 +162,7 @@ h5 {
 }
 
 .about_item1-img img {
+  margin: 5px 0;
   width: 500px;
   height: 500px;
   border-radius: 5px;
@@ -191,6 +193,7 @@ h5 {
 
 .about_item2-img img,
 .about_item5-img img {
+  margin: 5px 0;
   width: 100%;
   border-radius: 5px;
   height: auto;
@@ -245,6 +248,7 @@ h5 {
 }
 
 .about_item3-img img {
+  margin: 0px 0px 5px 0px;
   width: 500px;
   height: 700px;
   border-radius: 5px;
@@ -297,6 +301,7 @@ h5 {
 }
 
 .about_item4-img img {
+  margin: 0px 0px 5px 0px;
   width: 500px;
   height: 700px;
   border-radius: 5px;
@@ -1226,11 +1231,11 @@ a:hover {
   }
 
   .header_content {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .navbar {
-    padding: 15px 10px 10px 10px;
+    padding: 12px 10px 7px 10px;
   }
 
   .header2 {
@@ -1425,7 +1430,6 @@ a:hover {
   .event-item-txt {
     font-size: 0.5rem;
     line-height: 10px;
-    letter-spacing: -0.6px;
   }
 }
 
