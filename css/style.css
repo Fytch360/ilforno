@@ -58,8 +58,8 @@
 
 .slider-item-title,
 .event-item-title {
-  max-width: 90%;
-  margin-left: 5%;
+  max-width: 95%;
+  margin-left: 2.5%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -75,7 +75,7 @@
 .slider-item-txt,
 .event-item-txt {
   word-spacing: -1px;
-  max-width: 90%;
+  max-width: 95%;
   margin: 0 auto;
   font-size: 1rem;
   line-height: 25px;
@@ -823,7 +823,7 @@ li {
 
 .telephones-item1-title,
 .telephones-item2-title {
-  font-size: 9px;
+  font-size: 0.75rem;
   font-family: MuseoSansCyrl_1;
 }
 
