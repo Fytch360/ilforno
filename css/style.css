@@ -124,6 +124,27 @@ h5 {
           align-items: center;
 }
 
+.bout {
+  padding: 0 15px;
+  margin-bottom: 25px;
+}
+
+.bout-item-small {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.big {
+  width: 100%;
+  height: auto;
+}
+
+.small {
+  width: 100%;
+  height: auto;
+}
+
 .about_item1 {
   display: -webkit-box;
   display: -ms-flexbox;
