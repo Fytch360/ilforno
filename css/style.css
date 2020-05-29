@@ -136,6 +136,10 @@ h5 {
   margin-bottom: 25px;
 }
 
+.bout img {
+  border-radius: 10px;
+}
+
 .bout-item-small {
   display: -webkit-box;
   display: -ms-flexbox;
