@@ -132,12 +132,13 @@ h5 {
 }
 
 .bout {
-  padding: 0 15px;
+  padding: 0 12px;
   margin-bottom: 25px;
 }
 
 .bout img {
   border-radius: 10px;
+  padding: 3px;
 }
 
 .bout-item-small {
