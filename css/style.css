@@ -88,6 +88,13 @@
   overflow-x: hidden;
 }
 
+iframe {
+  height: 600px;
+  padding: 0 15px;
+  border-radius: 25px;
+  margin-bottom: 25px;
+}
+
 h5 {
   display: inline-block;
   margin-left: 25px;
@@ -143,6 +150,19 @@ h5 {
 .small {
   width: 100%;
   height: auto;
+}
+
+#bout1 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#boutlast1 {
+  border-bottom-left-radius: 10px;
+}
+
+#boutlast2 {
+  border-bottom-right-radius: 10px;
 }
 
 .about_item1 {
@@ -1144,6 +1164,10 @@ a:hover {
     line-height: 18px;
   }
 
+  iframe {
+    height: 400px;
+  }
+
   h5 {
     margin-left: 10px;
   }
@@ -1469,6 +1493,10 @@ a:hover {
 @media (max-width: 430px) {
   .event-item img {
     height: 100%;
+  }
+
+  iframe {
+    height: 250px;
   }
 
   .about_item2-img span,
