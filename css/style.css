@@ -88,10 +88,13 @@
   overflow-x: hidden;
 }
 
+.iframe {
+  padding: 0 15px;
+}
+
 iframe {
   height: 600px;
-  padding: 0 15px;
-  border-radius: 25px;
+  border-radius: 10px;
   margin-bottom: 25px;
 }
 
@@ -129,45 +132,6 @@ h5 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-}
-
-.bout {
-  padding: 0 12px;
-  margin-bottom: 25px;
-}
-
-.bout img {
-  border-radius: 10px;
-  padding: 3px;
-}
-
-.bout-item-small {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.big {
-  width: 100%;
-  height: auto;
-}
-
-.small {
-  width: 100%;
-  height: auto;
-}
-
-#bout1 {
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-}
-
-#boutlast1 {
-  border-bottom-left-radius: 10px;
-}
-
-#boutlast2 {
-  border-bottom-right-radius: 10px;
 }
 
 .about_item1 {
