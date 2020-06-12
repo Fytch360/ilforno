@@ -89,13 +89,15 @@
 }
 
 .iframe {
-  padding: 0 15px;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  overflow: hidden;
+  z-index: 1;
+  margin: 0 15px 25px 15px;
 }
 
 iframe {
   height: 600px;
-  border-radius: 10px;
-  margin-bottom: 25px;
 }
 
 h5 {
