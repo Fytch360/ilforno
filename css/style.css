@@ -93,13 +93,11 @@
   border-radius: 10px;
   overflow: hidden;
   position: relative;
-  margin: 0 15px 25px 15px;
+  margin: 0 15px 0px 15px;
 }
 
 iframe {
   height: 600px;
-  border-radius: 10px;
-  border: 1px solid rgba(255, 255, 255, 0.8);
 }
 
 h5 {
@@ -142,7 +140,7 @@ h5 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 0px 15px 15px 15px;
+  padding: 15px 15px 15px 15px;
 }
 
 .about_item1-content {
@@ -1137,7 +1135,7 @@ a:hover {
     line-height: 18px;
   }
 
-  iframe {
+  .iframe {
     height: 400px;
   }
 
@@ -1468,7 +1466,7 @@ a:hover {
     height: 100%;
   }
 
-  iframe {
+  .iframe {
     height: 250px;
   }
 
